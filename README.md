@@ -1,7 +1,7 @@
   <h1 align="center">
-  <b>Abhigyan Trips</b>
+  <b>waterspouut</b>
 </h1>
-<p>Heya! I’m Abhigyan Tripathi, a student currently living in Mumbai, India. I’m preparing for
+<p>Hey! I’m waterspouut, the korea name is chaoreum Park, a student currently living in South Korea. I’m preparing for
 <a href="https://en.wikipedia.org/wiki/Joint_Entrance_Examination">JEE</a>,
 and learning programming through small projects  on the side.</p>
 <br>
