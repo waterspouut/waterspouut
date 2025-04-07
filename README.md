@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+여기(README.cd)에 내용을 작성하면 프로필 최상단에 뜸
 <!--
 **waterspouut/waterspouut** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
