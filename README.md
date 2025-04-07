@@ -13,20 +13,19 @@ and learning programming through small projects on the side.</p>
   <img src="https://img.shields.io/badge/Java-17-orange?style=flat-square&logo=java&logoColor=white&labelColor=black">
 </div>
 <p></p>
-<pre class="astro-code github-dark" style="background-color:#24292e;color:#e1e4e8; overflow-x: auto;" tabindex="0"><code><span class="line"><span style="color:#F97583">class</span><span style="color:#B392F0"> AbhigyanTrips</span><span style="color:#E1E4E8">():</span></span>
+<pre class="astro-code github-dark" style="background-color:#24292e;color:#e1e4e8; overflow-x: auto;" tabindex="0"><code><span class="line"><span style="color:#F97583">class</span><span style="color:#B392F0"> waterspouut </span><span style="color:#E1E4E8">():</span></span>
 <span class="line"><span style="color:#E1E4E8">    </span></span>
-<span class="line"><span style="color:#F97583">  def</span><span style="color:#79B8FF"> __init__</span><span style="color:#E1E4E8">(self):</span></span>
-<span class="line"><span style="color:#79B8FF">    self</span><span style="color:#E1E4E8">.name </span><span style="color:#F97583">=</span><span style="color:#9ECBFF"> "Abhigyan Tripathi"</span><span style="color:#FDAEB7;font-style:italic">;</span></span>
-<span class="line"><span style="color:#79B8FF">    self</span><span style="color:#E1E4E8">.username </span><span style="color:#F97583">=</span><span style="color:#9ECBFF"> "abhigyantrips"</span><span style="color:#FDAEB7;font-style:italic">;</span></span>
-<span class="line"><span style="color:#79B8FF">    self</span><span style="color:#E1E4E8">.location </span><span style="color:#F97583">=</span><span style="color:#9ECBFF"> "Mumbai, India"</span><span style="color:#FDAEB7;font-style:italic">;</span></span>
-<span class="line"><span style="color:#79B8FF">    self</span><span style="color:#E1E4E8">.twitter </span><span style="color:#F97583">=</span><span style="color:#9ECBFF"> "@abhigyantrips"</span><span style="color:#FDAEB7;font-style:italic">;</span></span>
-<span class="line"><span style="color:#79B8FF">    self</span><span style="color:#E1E4E8">.web </span><span style="color:#F97583">=</span><span style="color:#9ECBFF"> "https://abhigyantrips.dev"</span><span style="color:#FDAEB7;font-style:italic">;</span></span>
+<span class="line"><span style="color:#F97583">  public</span><span style="color:#79B8FF"> class</span><span style="color:#E1E4E8"> waterspouut</span></span>
+  
+<span class="line"><span style="color:#79B8FF">    this</span><span style="color:#E1E4E8">.name </span><span style="color:#F97583">=</span><span style="color:#9ECBFF"> "Chaoreum Park"</span><span style="color:#FDAEB7;font-style:italic">;</span></span>
+<span class="line"><span style="color:#79B8FF">    this</span><span style="color:#E1E4E8">.username </span><span style="color:#F97583">=</span><span style="color:#9ECBFF"> "waterspouut"</span><span style="color:#FDAEB7;font-style:italic">;</span></span>
+<span class="line"><span style="color:#79B8FF">    this</span><span style="color:#E1E4E8">.location </span><span style="color:#F97583">=</span><span style="color:#9ECBFF"> "Daegu, South Korea"</span><span style="color:#FDAEB7;font-style:italic">;</span></span>
+<span class="line"><span style="color:#79B8FF">    this</span><span style="color:#E1E4E8">.web </span><span style="color:#F97583">=</span><span style="color:#9ECBFF"> "https://github.com/waterspouut"</span><span style="color:#FDAEB7;font-style:italic">;</span></span>
 <span class="line"><span style="color:#E1E4E8">  </span></span>
-<span class="line"><span style="color:#F97583">  def</span><span style="color:#79B8FF"> __str__</span><span style="color:#E1E4E8">(self):</span></span>
-<span class="line"><span style="color:#F97583">    return</span><span style="color:#79B8FF"> self</span><span style="color:#E1E4E8">.name</span></span>
-<span class="line"></span>
-<span class="line"><span style="color:#F97583">if</span><span style="color:#79B8FF"> __name__</span><span style="color:#F97583"> ==</span><span style="color:#9ECBFF"> '__main__'</span><span style="color:#E1E4E8">:</span></span>
-<span class="line"><span style="color:#E1E4E8">    me </span><span style="color:#F97583">=</span><span style="color:#E1E4E8"> AbhigyanTrips()</span></span></code></pre>
+
+<span class="line"><span style="color:#F97583">  public static void</span><span style="color:#79B8FF"> main</span><span style="color:#E1E4E8">(String[] args) {</span></span>
+ 
+
 <div align="center">
   <a href="https://open.spotify.com/user/6s6pbtefezpookh8gwnkko15v">
     <img src="https://readme-spotify-tingz.vercel.app/api/now-playing">
