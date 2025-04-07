@@ -7,9 +7,7 @@ and learning programming through small projects  on the side.</p>
 <br>
 <p>
 </p><div align="center">
-  <img src="https://img.shields.io/badge/-HTML-c58545?style=for-the-badge&amp;logo=html5&amp;logoColor=c58545&amp;labelColor=282828">
-  <img src="https://img.shields.io/badge/-CSS-d1a01f?style=for-the-badge&amp;logo=css3&amp;logoColor=d1a01f&amp;labelColor=282828">
-  <img src="https://img.shields.io/badge/Java-21-orange?logo=java&logoColor=white&style=flat-square">
+  <img src="https://img.shields.io/badge/-Java-blue?style=flat-square&logo=java&logoColor=white&labelColor=555555">
 </div>
 <p></p>
 <pre class="astro-code github-dark" style="background-color:#24292e;color:#e1e4e8; overflow-x: auto;" tabindex="0"><code><span class="line"><span style="color:#F97583">class</span><span style="color:#B392F0"> AbhigyanTrips</span><span style="color:#E1E4E8">():</span></span>
