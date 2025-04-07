@@ -2,14 +2,14 @@
   <b>waterspouut</b>
 </h1>
 <p>Hey! I’m waterspouut, the korea name is chaoreum Park, a student currently living in South Korea. I’m preparing for
-<a href="https://en.wikipedia.org/wiki/Joint_Entrance_Examination">JEE</a>,
+<a href="https://en.wikipedia.org/wiki/Data_science">Data Science</a>,
 and learning programming through small projects  on the side.</p>
 <br>
 <p>
 </p><div align="center">
   <img src="https://img.shields.io/badge/-HTML-c58545?style=for-the-badge&amp;logo=html5&amp;logoColor=c58545&amp;labelColor=282828">
   <img src="https://img.shields.io/badge/-CSS-d1a01f?style=for-the-badge&amp;logo=css3&amp;logoColor=d1a01f&amp;labelColor=282828">
-  <img src="https://img.shields.io/badge/-Python-98b982?style=for-the-badge&amp;logo=python&amp;logoColor=98b982&amp;labelColor=282828">
+  <img src="https://img.shields.io/badge/-Java-98b982?style=for-the-badge&amp;logo=java&amp;logoColor=98b982&amp;labelColor=282828">
 </div>
 <p></p>
 <pre class="astro-code github-dark" style="background-color:#24292e;color:#e1e4e8; overflow-x: auto;" tabindex="0"><code><span class="line"><span style="color:#F97583">class</span><span style="color:#B392F0"> AbhigyanTrips</span><span style="color:#E1E4E8">():</span></span>
