@@ -13,18 +13,19 @@ and learning programming through small projects on the side.</p>
   <img src="https://img.shields.io/badge/Java-17-orange?style=flat-square&logo=java&logoColor=white&labelColor=black">
 </div>
 <p></p>
-<pre class="astro-code github-dark" style="background-color:#24292e;color:#e1e4e8; overflow-x: auto;" tabindex="0"><code><span class="line"><span style="color:#F97583">public class</span><span style="color:#B392F0"> waterspouut </span><span style="color:#E1E4E8">():</span></span>
+<pre class="astro-code github-dark" style="background-color:#24292e;color:#e1e4e8; overflow-x: auto;" tabindex="0"><code><span class="line"><span style="color:#F97583">public class</span><span style="color:#B392F0"> waterspouut </span><span style="color:#E1E4E8">{</span></span>
 <span class="line"><span style="color:#E1E4E8">    </span></span>
-<span class="line"><span style="color:#F97583">  public</span><span style="color:#79B8FF"> class</span><span style="color:#E1E4E8"> waterspouut</span></span>
+<span class="line"><span style="color:#F97583">  public</span><span style="color:#E1E4E8"> waterspouut() {</span></span>
   
 <span class="line"><span style="color:#79B8FF">    this</span><span style="color:#E1E4E8">.name </span><span style="color:#F97583">=</span><span style="color:#9ECBFF"> "Chaoreum Park"</span><span style="color:#FDAEB7;font-style:italic">;</span></span>
 <span class="line"><span style="color:#79B8FF">    this</span><span style="color:#E1E4E8">.username </span><span style="color:#F97583">=</span><span style="color:#9ECBFF"> "waterspouut"</span><span style="color:#FDAEB7;font-style:italic">;</span></span>
 <span class="line"><span style="color:#79B8FF">    this</span><span style="color:#E1E4E8">.location </span><span style="color:#F97583">=</span><span style="color:#9ECBFF"> "Daegu, South Korea"</span><span style="color:#FDAEB7;font-style:italic">;</span></span>
 <span class="line"><span style="color:#79B8FF">    this</span><span style="color:#E1E4E8">.web </span><span style="color:#F97583">=</span><span style="color:#9ECBFF"> "https://github.com/waterspouut"</span><span style="color:#FDAEB7;font-style:italic">;</span></span>
-<span class="line"><span style="color:#E1E4E8">  </span></span>
+<span class="line"><span style="color:#E1E4E8">}</span></span>
 
 <span class="line"><span style="color:#F97583">  public static void</span><span style="color:#79B8FF"> main</span><span style="color:#E1E4E8">(String[] args) {</span></span>
- 
+<span class="line"><span style="color:#79B8FF">    waterspouut me = </span><span style="color:#E1E4E8">new </span><span style="color:#F97583">waterspouut()</span><span style="color:#FDAEB7;font-style:italic">;</span></span>
+<span class="line"><span style="color:#E1E4E8">}</span></span>
 <!--
 <h2 id="my-statistics">My Statistics</h2>
 <br>
